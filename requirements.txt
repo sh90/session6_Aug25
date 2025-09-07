@@ -1,0 +1,14 @@
+selenium~=4.33.0
+openai~=1.106.1
+beautifulsoup4~=4.13.4
+langchain~=0.3.27
+python-dotenv~=1.1.1
+langchain-openai~=0.3.32
+langchain-core~=0.3.75
+newspaper3k~=0.2.8
+feedparser~=6.0.11
+certifi~=2025.4.26
+yfinance~=0.2.61
+pandas~=2.3.0
+tabulate
+lxml_html_clean
